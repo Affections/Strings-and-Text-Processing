@@ -1,0 +1,6 @@
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\bin\Debug\Palindromes.exe.config
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\bin\Debug\Palindromes.exe
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\bin\Debug\Palindromes.pdb
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\obj\Debug\Palindromes.csproj.CoreCompileInputs.cache
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\obj\Debug\Palindromes.exe
+c:\users\affections\source\repos\ConsoleApp7\Palindromes\obj\Debug\Palindromes.pdb

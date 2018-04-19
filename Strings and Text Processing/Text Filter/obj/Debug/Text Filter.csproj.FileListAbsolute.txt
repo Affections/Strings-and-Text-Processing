@@ -1,0 +1,7 @@
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\bin\Debug\Text Filter.exe.config
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\bin\Debug\Text Filter.exe
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\bin\Debug\Text Filter.pdb
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\obj\Debug\Text Filter.csprojResolveAssemblyReference.cache
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\obj\Debug\Text Filter.csproj.CoreCompileInputs.cache
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\obj\Debug\Text Filter.exe
+c:\users\affections\source\repos\ConsoleApp7\Text Filter\obj\Debug\Text Filter.pdb
